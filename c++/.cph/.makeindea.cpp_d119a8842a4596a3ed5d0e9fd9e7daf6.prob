@@ -1,0 +1,1 @@
+{"name":"Local: makeindea","url":"c:\\Users\\iampe\\Desktop\\DSA-II\\c++\\makeindea.cpp","tests":[{"id":1734013201440,"input":"8  \nGAAATAAA","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\iampe\\Desktop\\DSA-II\\c++\\makeindea.cpp","group":"local","local":true}

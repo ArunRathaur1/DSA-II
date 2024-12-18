@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Users\\iampe\\Desktop\\DSA-II\\c++\\A. Reverse a Substring.cpp","tests":[{"id":1734347716970,"input":"7\nabacaba","output":"YES"},{"id":1734347743325,"input":"6\naabcfg\n","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\iampe\\Desktop\\DSA-II\\c++\\A. Reverse a Substring.cpp","group":"local","local":true}

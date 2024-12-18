@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"c:\\Users\\iampe\\Desktop\\DSA-II\\c++\\B. Divan and a New Project.cpp","tests":[{"id":1734255156550,"input":"4\n3\n1 2 3\n5\n3 8 10 6 1\n5\n1 1 1 1 1\n1\n0\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\iampe\\Desktop\\DSA-II\\c++\\B. Divan and a New Project.cpp","group":"local","local":true}

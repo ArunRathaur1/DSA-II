@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\iampe\\Desktop\\DSA-II\\c++\\C. Make Them Equal.cpp","tests":[{"id":1736336197218,"input":"3\n3 c\nucg\n4 a\nbaaa\n4 b\nzyx\n","output":"0\n1\n2\n2 \n2 3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\iampe\\Desktop\\DSA-II\\c++\\C. Make Them Equal.cpp","group":"local","local":true}

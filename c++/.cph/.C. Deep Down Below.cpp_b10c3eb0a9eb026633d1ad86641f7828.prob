@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\iampe\\Desktop\\DSA-II\\c++\\C. Deep Down Below.cpp","tests":[{"id":1737200325180,"input":"2\n1\n1 42\n2\n2 2 4\n9 2 3 3 2 1 3 4 2 4\n","output":"43\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\iampe\\Desktop\\DSA-II\\c++\\C. Deep Down Below.cpp","group":"local","local":true}

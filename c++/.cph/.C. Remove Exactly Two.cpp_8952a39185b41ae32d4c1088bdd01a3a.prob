@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\iampe\\Desktop\\DSA-II\\c++\\C. Remove Exactly Two.cpp","tests":[{"id":1737552626645,"input":"3\n3\n4 6 5\n2\n0 2\n3\n1 2 3","output":"0\n2\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\iampe\\Desktop\\DSA-II\\c++\\C. Remove Exactly Two.cpp","group":"local","local":true}

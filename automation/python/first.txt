@@ -1,0 +1,5 @@
+this is the 
+text 
+I want 
+to take 
+from the file
